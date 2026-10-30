@@ -5,7 +5,7 @@ from a website with no widget to a working project and a real first message.
 
 Publisher: **Good Sheet Sp z o.o.** Source code is MIT licensed.
 
-Planned public URL: https://voicedot.github.io/voicedot-install-demo/
+Public URL: https://install.voicedot.ai/ (DNS and HTTPS setup in progress).
 
 This is separate from the completed feedback-to-code example at
 https://review.voicedot.ai/ and its source repository,
